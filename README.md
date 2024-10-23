@@ -1,5 +1,5 @@
 
-## Project tile - Yelu Bike Sharing Demand Prediction
+## Project tile - Yulu Bike Sharing Demand Prediction
 
 ### <b>Description:</b> 
 This is a supervised ML (regression) capstone project on bike sharing demand prediction given by [Alma Better](https://www.almabetter.com/).
